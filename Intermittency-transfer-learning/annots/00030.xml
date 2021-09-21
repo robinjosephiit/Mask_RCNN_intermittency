@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00030.jpg</filename>
+	<path>E:\OneDrive - Indian Institute of Science\Codes\DL\Inter_calc\Labelimg\kangaroo\images\00030.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2005</width>
+		<height>1016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>600</ymin>
+			<xmax>390</xmax>
+			<ymax>860</ymax>
+		</bndbox>
+	</object>
+</annotation>
