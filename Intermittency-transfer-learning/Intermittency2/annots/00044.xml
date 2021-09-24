@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00044.jpg</filename>
+	<path>E:\OneDrive - Indian Institute of Science\Codes\DL\Inter_calc\Labelimg\Colab2\images\00044.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2005</width>
+		<height>1016</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>TURBULENT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>102</xmin>
+			<ymin>235</ymin>
+			<xmax>568</xmax>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>TURBULENT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>656</xmin>
+			<ymin>235</ymin>
+			<xmax>1944</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+</annotation>
